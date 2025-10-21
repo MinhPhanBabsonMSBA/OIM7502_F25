@@ -1,0 +1,21 @@
+number,company,symbol,ytd_return
+1,"Robinhood Markets, Inc.",HOOD,268.44
+2,Western Digital,WDC,170.62
+3,Newmont,NEM,154.03
+4,Seagate Technology,STX,147.89
+5,Micron Technology,MU,147.06
+6,Palantir Technologies,PLTR,140.35
+7,Lam Research,LRCX,99.93
+8,Advanced Micro Devices,AMD,99.46
+9,Intel,INTC,90.59
+10,Amphenol,APH,84.17
+11,NRG Energy,NRG,83.97
+12,CVS Health,CVS,83.76
+13,KLA Corporation,KLAC,83.21
+14,GE Aerospace,GE,82.71
+15,Supermicro,SMCI,81.68
+16,GE Vernova,GEV,80.99
+17,Corning Inc.,GLW,79.51
+18,"Tapestry, Inc.",TPR,78.51
+19,Monolithic Power Systems,MPWR,77.59
+20,Howmet Aerospace,HWM,75.32
